@@ -16,7 +16,8 @@
     "url": "https://github.com/hera0/background-generator/issues"
   },
   "homepage": "https://github.com/hera0/background-generator#readme",
-  "dependencies": {
+  "dependencies": { // packages a website needs to work 
+    "lodash": "^4.17.20",
     "node": "^14.13.1"
   }
 }
